@@ -27,14 +27,16 @@ The application:
 - Displays a **FLAG** only if the token is correctly signed and role = admin
 
 ---
-
 ## 🗂 Project Structure
+
+```
 jwt-lab/
 │
-├── jwt.php # JWT creation & verification logic
-├── login.php # Generates user token
-├── admin.php # Admin access & flag display
+├── jwt.php        # JWT creation & verification logic
+├── login.php      # Generates user token
+├── admin.php      # Admin access & flag display
 └── README.md
+```
 
 ---
 
