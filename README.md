@@ -129,11 +129,13 @@ FLAG{JWT_ADMIN_ACCESS}
 ---
 
 ## Developer
+```
 
 **Vishal Waghmare**  
 Cyber Security Analyst Developer & Trainer 
 **Amey Dubey**
 Cyber Security Analyst & Developer
+```
 
 ---
 
